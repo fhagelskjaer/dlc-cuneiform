@@ -2,16 +2,22 @@
 DEEP LEARNING CLASSIFICATION OF LARGE-SCALE POINT CLOUDS: A CASE STUDY ON CUNEIFORM TABLETS
 </h1>
 
-
+<div align="center">
+<a href="https://arxiv.org/abs/2202.10851">[Paper]</a>
+</div>
 
 # Citation
 If you use this code in your research, please cite the paper:
 
 ```
-@inproceedings{fhagelskjaer2022,
-title= {Deep learning classification of large-scale point clouds: A case study on cuneiform tablets}
-author={F. {Hagelskjaer}},
-year={2022}}
+@misc{hagelskjaer2022deep,
+      title={Deep learning classification of large-scale point clouds: A case study on cuneiform tablets}, 
+      author={Frederik Hagelskjaer},
+      year={2022},
+      eprint={2202.10851},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ***
